@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="vendum" max_length="40" name="sn_glob7_vendum" type="collection">
+        <element label="oh" max_length="40" name="oh" type="integer"/>
+    </element>
+</database>
